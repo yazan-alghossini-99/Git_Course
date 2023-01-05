@@ -1,1 +1,1 @@
-"const colors = ['red', 'green', 'blue'];" 
+"const fruits = ['apple', 'banana']; fruits.push('orange');" 
