@@ -1,1 +1,1 @@
-"document.addEventListener('DOMContentLoaded', () => console.log('Ready'));" 
+"document.getElementById('myBtn').addEventListener('click', () => alert('Clicked!'));" 
