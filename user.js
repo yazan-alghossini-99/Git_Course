@@ -1,1 +1,1 @@
-"const user = { name: 'John', age: 30 };" 
+"const car = { brand: 'Toyota', start: function() { return 'Engine started'; } };" 
