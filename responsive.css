@@ -1,1 +1,1 @@
-"@media (max-width: 768px) { body { font-size: 14px; } }" 
+"@media (min-width: 1024px) { .container { max-width: 960px; } }" 
