@@ -1,0 +1,13 @@
+
+/* DEPRECATED: Removed hardcoded light background */
+/* background-color: #ffffff; */
+
+:root {
+  --bg-color: #121212;
+  --text-color: #e0e0e0;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
